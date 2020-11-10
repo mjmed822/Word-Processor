@@ -1,0 +1,13 @@
+3456 george
+10.25 1234 smith 4.5                  
+4321 s     
+taci 10.25 278
+staci      10.25
+     
+
+
+
+
+
+The maximum allowed number of words is 50.
+The read file contains 12 words.
