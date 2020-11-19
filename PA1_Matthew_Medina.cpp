@@ -11,7 +11,7 @@
 
 using namespace std;
 
-int main(in argc, char* argv[])
+int main(int argc, char* argv[])
 {
 	ifstream file;
 	int lineLength = 20;
